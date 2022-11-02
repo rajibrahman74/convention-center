@@ -13,7 +13,7 @@
   */
   .carousel-item img {
     width: 100%;
-    height: 80vh;
+    height: 90vh;
   }
 
   .heading-one {
@@ -51,6 +51,6 @@
     height: 40px;
   }
   span > a > .img-two {
-    width: 165px;
+    width: 168px;
     height: 72px;
   }
